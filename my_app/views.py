@@ -2,6 +2,8 @@ from django.shortcuts import render
 
 # Create your views here.
 
+# djangorestframework 모듈설치
+# pip install djangorestframework
 from rest_framework.views import APIView
 from rest_framework.response import Response
 
